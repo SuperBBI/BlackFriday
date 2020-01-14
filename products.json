@@ -1,0 +1,38 @@
+[
+  {
+    "properties": {
+      "baseClock": "3.5 GHz",
+      "quantity": "250",
+      "cores": "8",
+      "price": "1500",
+      "minPrice": "1200",
+      "threads": "16",
+      "model": "RYZEN 3990X",
+      "manufacturer": "AMD"
+    },
+    "categories": [ "Electronics" ]
+  },
+  {
+    "properties": {
+      "quantity": "120",
+      "price": "1200",
+      "minPrice": "900",
+      "model": "Core i7-9900K",
+      "manufacturer": "Intel"
+    },
+    "categories": [ "Electronics" ]
+  },
+  {
+    "properties": {
+      "baseClock": "3.45 GHz",
+      "quantity": "50",
+      "cores": "64",
+      "price": "3800",
+      "minPrice": "3500",
+      "threads": "128",
+      "model": "Threadripper 77Y",
+      "manufacturer": "AMD"
+    },
+    "categories": [ "Electronics" ]
+  }
+]

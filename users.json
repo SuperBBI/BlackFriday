@@ -1,0 +1,29 @@
+[
+  {
+    "address": "adsdasdas",
+    "phoneNumber": "0877456751",
+    "firstName": "Boris",
+    "lastName": "Iliev",
+    "purchaseHistory": [ null ],
+    "username": "Mystogan",
+    "password": "12345678"
+  },
+  {
+    "address": "adshhud",
+    "phoneNumber": "0877456751",
+    "firstName": null,
+    "lastName": null,
+    "purchaseHistory": [ "[Tue Jan 14 00:33:22 EET 2020]\nAMD  RYZEN 3990X\tprice: 1500  ", "[Tue Jan 14 00:33:22 EET 2020]\nIntel  Core i7-9900K\tprice: 1200  " ],
+    "username": "Erza",
+    "password": "12345678"
+  },
+  {
+    "address": "adsdasdas",
+    "phoneNumber": "0877456751",
+    "firstName": "",
+    "lastName": "",
+    "purchaseHistory": [ "[Tue Jan 14 00:33:22 EET 2020]\nAMD  RYZEN 3990X\tprice: 1500  ", "[Tue Jan 14 00:33:22 EET 2020]\nIntel  Core i7-9900K\tprice: 1200  " ],
+    "username": "Jellal",
+    "password": "12345678"
+  }
+]
